@@ -1,5 +1,7 @@
 import Carta from "./Carta/Carta"
 import "./Gallery.scss"
+
+
 const Gallery = ({miArray}) => {
 // const Gallery = (miArray) => {
 // console.log(miArray.miArray)
